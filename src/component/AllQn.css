@@ -1,0 +1,14 @@
+.titles{
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.card-home-map{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    border: 1px solid grey;
+}
+.card-home{
+    border: 1px solid grey;
+}

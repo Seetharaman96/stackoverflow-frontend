@@ -1,0 +1,34 @@
+.titles{
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.card{
+    /* width: auto; */
+    /* height: auto; */
+    border: 1px solid grey;
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+}
+/* .topic{
+    color: blue;
+} */
+/* .topic:hover{
+    color: lightblue;
+} */
+.userName{
+    margin: 10px;
+}
+/* .btn{
+    height: 50px;
+    width: 100px;
+    border: none;
+    background-color: aqua;
+    font-size: large;
+    cursor: pointer;
+} */
+.view-answer{
+    display: flex;
+    gap: 1rem;
+}

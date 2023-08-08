@@ -1,0 +1,21 @@
+.user-card{
+    margin-top: 20px;
+    height: 100px;
+    width: 200px;
+    border: 1px solid purple;
+}
+.user{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+.user-title{
+    color: rebeccapurple;
+}
+.user-name{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
